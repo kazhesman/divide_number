@@ -1,7 +1,7 @@
 <?php
 $n = 50;
 // $k = 2;
-echo "$n:";
+echo "$n:</br>\n";
 for ($i=2; $i <= $n; $i++) { 
     if($n % $i != 0) {
         continue;
